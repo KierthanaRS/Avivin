@@ -87,14 +87,14 @@ npx expo start
 
    - Users can view and edit their profiles.
 
-   ![alt text](repoimages/img8.jpeg)
-   ![alt text](repoimages/img7.jpeg)
-   ![alt text](repoimages/img6.jpeg)
-   ![alt text](repoimages/img5.jpeg)
-   ![alt text](repoimages/img4.jpeg)
-   ![alt text](repoimages/img3.jpeg)
-   ![alt text](repoimages/img2.jpeg)
-   ![alt text](repoimages/img1.jpeg)
+   ![alt text](repoimages/img8.jpg)
+   ![alt text](repoimages/img7.jpg)
+   ![alt text](repoimages/img6.jpg)
+   ![alt text](repoimages/img5.jpg)
+   ![alt text](repoimages/img4.jpg)
+   ![alt text](repoimages/img3.jpg)
+   ![alt text](repoimages/img2.jpg)
+   ![alt text](repoimages/img1.jpg)
 
 ## Contributing
 
