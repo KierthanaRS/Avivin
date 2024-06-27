@@ -1,3 +1,114 @@
+# Avivin
+
+Avivin is a video-sharing platform built with React Native and Appwrite. Users can upload, view, like, and manage videos. 
+
+## Features
+
+- User Authentication
+- Video Upload and Playback
+- Like and Unlike Videos
+- User Profiles
+
+## Technologies Used
+
+- React Native
+- Appwrite
+- Expo
+- TailwindCSS
+
+## Installation
+
+### Prerequisites
+
+- Node.js
+- Expo CLI
+- Appwrite Server
+
+### Steps
+
+1. **Clone the Repository**
+
+```sh
+git clone https://github.com/KierthanaRS/Avivin.git
+cd Avivin
+```
+
+2. **Install Dependencies**
+
+```sh
+npm install
+```
+
+3. **Configure Appwrite**
+
+   - Set up an Appwrite server.
+   - Create a new project in Appwrite.
+   - Create necessary collections and documents in Appwrite.
+   - Set up your Appwrite configuration in `src/lib/appwrite.js`.
+
+4. **Run the Application**
+
+```sh
+npx expo start
+```
+
+## Project Structure
+
+```
+.
+├── src
+│   ├── assets          # Image and other asset files
+│   ├── components      # Reusable React components
+│   ├── constants       # Constants such as images and icons
+│   ├── context         # Global context for state management
+│   ├── lib             # Appwrite configuration and helper functions
+│   ├── navigation      # React Navigation setup
+│   ├── screens         # Screen components
+│   ├── styles          # Styling files
+│   └── App.js          # Entry point of the application
+└── package.json        # Project dependencies and scripts
+```
+
+## Usage
+
+1. **User Authentication**
+
+   - Users can sign up and log in to the application.
+
+2. **Video Upload and Playback**
+
+   - Users can upload videos and view them within the app.
+
+3. **Like and Unlike Videos**
+
+   - Users can like and unlike videos.
+
+4. **User Profiles**
+
+   - Users can view and edit their profiles.
+
+   ![alt text](repoimages/img8.jpeg)
+   ![alt text](repoimages/img7.jpeg)
+   ![alt text](repoimages/img6.jpeg)
+   ![alt text](repoimages/img5.jpeg)
+   ![alt text](repoimages/img4.jpeg)
+   ![alt text](repoimages/img3.jpeg)
+   ![alt text](repoimages/img2.jpeg)
+   ![alt text](repoimages/img1.jpeg)
+
+## Contributing
+
+Contributions are welcome! Please create a pull request or open an issue to discuss changes.
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out.
+
+- [kierthana](mailto:kierthanars@gmail.com)
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
